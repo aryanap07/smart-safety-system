@@ -14,10 +14,15 @@ Reliable for basic safety monitoring
 🛠️ Key Features
 
 ✔ Real-time LCD display for temperature & gas readings
+
 ✔ LED + Buzzer alert system
+
 ✔ Separate warnings for temperature & gas
+
 ✔ Combined alert when both thresholds cross
+
 ✔ Works on Arduino UNO & Tinkercad
+
 ✔ Clean and easy-to-understand code
 
 🧩 Components Used

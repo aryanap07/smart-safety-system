@@ -28,10 +28,13 @@ Instant warnings using an LED indicator + buzzer alarm.
 🔥 Dual Hazard Detection
 
 High temperature alert
+![](images/3.%20HIGH%20TEMPERATURE%20ALERT.png)
 
 High gas/smoke alert
+![](images/2.%20GAS%20ALERT.png)
 
 Combined alert when both exceed thresholds
+![](images/4.%20CRITICAL%20ALERT%20(BOTH).png)
 
 🧩 Easy Deployment
 Works seamlessly on both Arduino UNO hardware and Tinkercad simulation.

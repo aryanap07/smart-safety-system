@@ -3,6 +3,8 @@
 The Smart Safety System is built to spot danger before it becomes a disaster.
 By integrating a precision LM35 temperature sensor and a sensitive MQ gas/smoke sensor, this project creates a compact yet powerful safety mechanism that instantly alerts you to environmental hazards.
 
+![](images/1.%20NORMAL%20CONDITION.png)
+
 It shows how simple electronics + smart logic = real-world impact.
 
 This project is proudly:
